@@ -1,0 +1,8 @@
+.white{
+    background-color: white;
+}
+
+.jumbotron{
+    background-image: url(/ninja_gold/static/img/gold.jpg);
+    background-size: cover;
+}
